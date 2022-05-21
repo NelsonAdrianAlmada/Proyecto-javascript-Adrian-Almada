@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=PT+Serif&family=Pacifico&display=swap');
+header{
+    background-color: rgb(239, 191, 199);
+    height: 160px;
+}
+nav{
+    font-family:'Pacifico', cursive;
+}
+ul li{
+    font-size: 25px;
+}
+main{
+    font-family: 'Pacifico', cursive;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.card{
+    margin: 40px 40px 40px 40px;
+    border: 1px solid black;
+    width: min-content;
+}
+.btn{
+    background-color: rgb(239, 191, 199);
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px 10px 165px;
+
+}
+.carrito{
+    margin-right: 20px;
+}
+
+
+
